@@ -1,12 +1,13 @@
 Instructions
-
 ===== 
 
 .. _instructions:
 
-EDMTracksLosslessS3Upload is a PowerShell script for uploading local lossless music files to Amazon S3. The script includes:
 
- 
+Installation
+------------
+
+EDMTracksLosslessS3Upload is a PowerShell script for uploading local lossless music files to Amazon S3. The script includes:
 
 - Recording outputs using the ``Start-Transcript`` cmdlet.
 - Checking there are files in the local folder.
@@ -22,7 +23,6 @@ Please use the most recent version. Previous versions are included for completen
 .. _usage:
 
 Usage
-
 ------------
 
 When everything is in place, run the PowerShell script. PowerShell will then move through the script, producing outputs as work is completed. A typical example of a successful transcript is as follows:
