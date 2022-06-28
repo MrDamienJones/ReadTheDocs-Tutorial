@@ -14,6 +14,10 @@ how to :ref:`installation` the project.
    This project is under active development.
    
    Lumache has its documentation hosted on Read the Docs.
+   
+.. note::
+
+   This page also now holds test content for `EDMTracksLosslessS3Upload-PowerShell <https://github.com/MrDamienJones/EDMTracksLosslessS3Upload-PowerShell>`_.
 
 Contents
 --------
@@ -22,3 +26,4 @@ Contents
 
    usage
    api
+   instructions
